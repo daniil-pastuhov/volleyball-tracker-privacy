@@ -1,12 +1,10 @@
-<!-- BEFORE PUBLISHING: replace the three placeholders [DEVELOPER NAME AS SHOWN ON GOOGLE PLAY], [CONTACT EMAIL] and [EFFECTIVE DATE] (here and in privacy-policy.html). -->
+# Privacy Policy for Volleyball Camera Scoreboard
 
-# Privacy Policy for VolleyballTracker
-
-**Effective date: [EFFECTIVE DATE]**
+**Effective date: 18 November 2026**
 
 ## What this policy covers
 
-This policy describes how the Android app **VolleyballTracker** (package `com.volleyball.tracker`, "the app") handles information. The app is published by **[DEVELOPER NAME AS SHOWN ON GOOGLE PLAY]** ("we").
+This policy describes how the Android app **Volleyball Camera Scoreboard** (package `com.volleyball.tracker`, "the app") handles information. The app is published by **Daniil Pastukhou** ("we").
 
 ## Summary
 
@@ -52,4 +50,4 @@ If the app changes in a way that affects this policy (for example, if a future v
 
 ## Contact
 
-Questions about this policy: **[CONTACT EMAIL]**
+Questions about this policy: **danielbelloneword@gmail.com**
